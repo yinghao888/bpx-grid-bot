@@ -2,6 +2,12 @@
 
 A Backpack exchange grid trading bot that supports SOL/USDC trading pair.
 
+## Sponsor
+
+[https://backpack.exchange/refer/b](https://backpack.exchange/refer/b)
+
+I recommend getting Blue Chip NFT Madlads before you trade to get VIP1 tier fees discount.
+
 ## Features
 
 - Automatically create buy and sell grids within the set price range.
@@ -92,10 +98,6 @@ yarn start
 ## License
 
 MIT Source: https://github.com/pordria/backpack-grid-bot
-
-## Sponsor
-
-[https://backpack.exchange/refer/b](https://backpack.exchange/refer/b)
 
 ## Backpack Exchange API
 
